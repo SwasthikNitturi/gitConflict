@@ -6,4 +6,8 @@ public class Area {
 			System.out.println((n1*n2));
 
 		}
+		
+		public void prod(int n,int x){
+			System.out.println(n*n2));
+		}
 }

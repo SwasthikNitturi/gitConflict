@@ -8,6 +8,6 @@ public class Area {
 		}
 		
 		public void sub(int n,int x) {
-			System.out.println(x-n);
+			System.out.println((x-n));
 		}
 }
